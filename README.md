@@ -4,7 +4,7 @@ Node.js Hash Map class implementation using arrays with a little code to test it
 ## Installation
 Install node.js: https://nodejs.org/en/download/<br/>
 Clone this repo<br/>
-Type in terminal `npm install`<br/>
+Type in terminal: `npm install`<br/>
 
 ## Launch application
 Type in terminal: `node app.js`

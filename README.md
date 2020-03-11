@@ -9,7 +9,7 @@ Type in terminal: `npm install`<br/>
 ## Launch application
 Type in terminal: `node app.js`
 
-## Commands for test code:
+## Commands for test code
 After launching the application use these commands in terminal:<br/>
 `set [key] [value]` - add key/value pair<br/>
 `get [key]` - get value by key<br/>
